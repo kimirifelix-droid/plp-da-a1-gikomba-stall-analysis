@@ -20,7 +20,7 @@ Wanjiku runs a fresh-produce stall at Gikomba Market and has recorded daily sale
 
 
 
-Open the notebook in Google Colab: \[Open in Colab](https://colab.research.google.com/)
+Open the notebook directly in Google Colab: \[Open in Colab](https://colab.research.google.com/github/kimirifelix-droid/plp-da-a1-gikomba-stall-analysis/blob/main/stall\_analysis.ipynb)
 
 
 
